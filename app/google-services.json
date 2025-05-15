@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160692160997",
+    "project_id": "trevana-84959",
+    "storage_bucket": "trevana-84959.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160692160997:android:bb1b455c2b6f22ea1e070c",
+        "android_client_info": {
+          "package_name": "com.package.trevana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ9t0zdUeA0mJIiWqSdfziYetFBC5Fhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

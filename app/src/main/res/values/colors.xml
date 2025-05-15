@@ -1,0 +1,28 @@
+<resources>
+    <!-- Background colors -->
+    <color name="primary">#121212</color>          <!-- Main app background -->
+    <color name="surface">#1E1E1E</color>          <!-- Cards, dialogs, menus -->
+
+    <!-- Accent and interaction colors -->
+    <color name="accent">#FF6F00</color>           <!-- Primary brand color (buttons, highlights) -->
+    <color name="ripple_orange">#33FF6F00</color>  <!-- Ripple effect color (20% opacity accent) -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>     <!-- Primary text on dark backgrounds -->
+    <color name="text_secondary">#BDBDBD</color>  <!-- Secondary text (captions, hints) -->
+
+    <!-- UI element colors -->
+    <color name="divider">#2D2D2D</color>         <!-- Dividers between list items -->
+    <color name="error_red">#FF5252</color>        <!-- Error messages and validation -->
+    <color name="success_green">#4CAF50</color>    <!-- Success states and confirmations -->
+    <color name="warning_yellow">#FFC107</color>   <!-- Warning and caution indicators -->
+
+    <!-- State colors -->
+    <color name="disabled">#757575</color>         <!-- Disabled buttons/text -->
+    <color name="transparent">#00000000</color>    <!-- Fully transparent color -->
+
+    <color name="success_green_20">#3312B76C</color>
+    <color name="error_red_20">#33F44336</color>
+    <color name="disabled_20">#339E9E9E</color>
+
+</resources>

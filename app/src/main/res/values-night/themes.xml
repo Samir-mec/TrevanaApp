@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Trevana" parent="Theme.Trevana">
+        <!-- Custom night mode overrides if needed -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">Trevana</string>
+    <string name="post_image_desc">Post image</string>
+    <string name="login_failed">Login failed: %s</string>
+    <string name="email_required">Email required</string>
+    <string name="password_required">Password required</string>
+    <string name="password_length_error">Password must be at least 6 characters</string>
+    <string name="login_success">Login successful! 🎉</string>
+    <string name="login_failure">Login failed: %s</string>
+    <string name="unknown_error">Unknown error occurred</string>
+
+    <!-- Login Screen -->
+    <string name="app_logo_desc">Application Logo</string>
+    <string name="welcome_back">Welcome Back! 👋</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+
+    <!-- Text Appearances -->
+    <style name="TextAppearance.Trevana.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.Trevana.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Navigation Labels -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="new_post">New Post</string>
+    <string name="profile">Profile</string>
+
+    <!-- Icons Description -->
+    <string name="home_icon_desc">Home</string>
+    <string name="search_icon_desc">Search</string>
+    <string name="add_icon_desc">Create New Post</string>
+    <string name="profile_icon_desc">Profile</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="name_required">Name required</string>
+    <string name="signup_success">Account created successfully!</string>
+    <string name="data_save_error">Failed to save user data</string>
+    <string name="user_not_found">User authentication failed</string>
+
+    <string name="search_hint">Search posts...</string>
+    <string name="min_price">Min Price</string>
+    <string name="max_price">Max Price</string>
+    <string name="price_separator">–</string> <!-- en-dash character -->
+    <string name="no_results_found">No matching posts found</string>
+
+    <string name="no_location">No location specified</string>
+
+</resources>
